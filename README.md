@@ -36,7 +36,7 @@ PCA scatter plot showing clusters of similar tracks.
 Word clouds of top artists in each cluster.
 
 Summary of average audio features per cluster.
-
+```
 Future Improvements
 Explore different clustering algorithms (e.g., DBSCAN, Agglomerative).
 
@@ -48,3 +48,4 @@ Tune hyperparameters and use cross-validation.
 
 Author
 Ahad Ali
+https://github.com/ahxdali
